@@ -1,0 +1,18 @@
+#box {
+  display: grid;
+  grid: repeat(8, 157px) / auto-flow 157px;
+}
+.w{
+    background-color: wheat;
+    /* width: 200px;
+    height: 200px; */
+    width:   12vw ;
+    height: 12vh;
+}
+.b{
+    background-color: black;
+    /* width: 200px;
+    height: 200px; */
+    width:   12vw ;
+    height: 12vh;
+}
